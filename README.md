@@ -7,7 +7,6 @@ Full-Stack Developer
 🚀 Passionate Full Stack Software Engineer | Transforming Ideas into Digital Solutions Hey there! 👋 I'm Daniel, a detail-oriented Full Stack Software Engineer skilled in crafting innovative solutions. With expertise in front-end (HTML, CSS, JavaScript, React) and back-end technologies (Node.js, Express), I bring a holistic approach to software development. My knack for collaborating with cross-functional teams and adapting to emerging technologies has been crucial for project success. Thriving in creating seamless web applications, I prioritize user experience and continuously learn to stay ahead in the dynamic tech landscape. Let's connect if you're seeking a dedicated Full Stack Software Engineer who can bring technical expertise and creative problem-solving to your team!
 
 * 🌍  I'm based in United States
-* 🚀  I'm currently working on [Steam clone](http://github.com/MusicalSurfer/react-mvp.git)
 
 ### Skills
 
